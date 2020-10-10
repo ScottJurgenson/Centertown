@@ -1,3 +1,7 @@
+# Centertown: A Hometown fork. 
+
+We are just getting this started so for no I am leaving the Hometown Readme below. 
+
 # Hometown: a Mastodon fork
 
 <img width="300" src="https://live.staticflickr.com/7005/26777339042_b32cef4e1f_b.jpg" alt="photo of a village of stone huts nestled in a lush green valley">
